@@ -1,11 +1,26 @@
+/*
+* Navbar
+*/
 
-  body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
+.navbar-brand{
+  margin-right: 4rem;
+}
 
-  main {
-    flex: 1 0 auto;
-  }
-    
+.nav-link{
+  margin-right: 2rem;
+}
+.img-fluid{
+  max-width: none;
+
+}
+.navbar{
+  z-index: 123333333;
+}
+/*
+* carousel
+*/
+.carouselHome
+{
+  margin-top: -102px;
+  z-index: -1000000;
+}

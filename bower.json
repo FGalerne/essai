@@ -1,0 +1,32 @@
+{
+  "name": "bshdev",
+  "version": "0.0.1",
+  "description": "Mean starter kit",
+  "authors": [
+    "Florian Galerne"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "package.json",
+    "src",
+    ".*",
+    "CHANGELOG.md",
+    "component.json",
+    "package.json",
+    "_includes",
+    "_layouts",
+    "public/vendor/",
+    "tests"
+  ],
+  "homepage": "https://github.com/FGalerne/essai",
+  "main": "",
+  "private": true
+}
